@@ -2,10 +2,10 @@
 
 
 
-###- 🔭 I’m currently working on front end 
-###- 🌱 I’m currently learning Node.js and Python
-###- 💬 Ask me about anything
-###- 📫 How to reach me: jonathankristhian@gmail.com 
+- 🔭 I’m currently working on front end 
+- 🌱 I’m currently learning Node.js and Python
+- 💬 Ask me about anything
+- 📫 How to reach me: jonathankristhian@gmail.com 
 
 
 
