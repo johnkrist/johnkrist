@@ -1,17 +1,12 @@
-<div aling="center">
-
-  <h1>Hi there, I am Johnathan</h1>
-
-
-
-  <h3>- 🔭 I’m currently working on front end</h3>
-- 🌱 I’m currently learning Node.js and Python
-- 💬 Ask me about anything
-- 📫 How to reach me: jonathankristhian@gmail.com 
-
+<div align="center">
+<h1>Hi there, I am Johnathan</h1>
+<br>
+<h3>🔭 I’m currently working on front end</h3>
+<h3>🌱 I’m currently learning Node.js and Python</h3>
+<h3>💬 Ask me about anything</h3>
+<h3>📫 How to reach me: jonathankristhian@gmail.com</h3>
 </div>
-
-
+<br>
 <div align="justify">
   <a href="https://github.com/johnkrist">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnkrist&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,12 +22,11 @@
   <img align="center" alt="jk-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   <br>
+  <br>
 <div align="center"> 
- 
   <a href="https://instagram.com/johnkristhian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:johnathankristhian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/johnkristhian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <hr>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
