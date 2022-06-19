@@ -1,13 +1,15 @@
-## Hi there, I am Johnathan 
+<div aling="center">
+
+  <h1>Hi there, I am Johnathan</h1>
 
 
 
-- 🔭 I’m currently working on front end 
+  <h3>- 🔭 I’m currently working on front end</h3>
 - 🌱 I’m currently learning Node.js and Python
 - 💬 Ask me about anything
 - 📫 How to reach me: jonathankristhian@gmail.com 
 
-
+</div>
 
 
 <div align="justify">
@@ -24,6 +26,7 @@
   <img align="center" alt="jk-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jk-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+  <br>
 <div align="center"> 
  
   <a href="https://instagram.com/johnkristhian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
