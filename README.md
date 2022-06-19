@@ -1,6 +1,5 @@
 <div align="center">
-<h1>Hi there, I am Johnathan</h1>
-<br>
+<h1>Hi there, I am Johnathan Costa</h1>
 <h3>🔭 I’m currently working on front end</h3>
 <h3>🌱 I’m currently learning Node.js and Python</h3>
 <h3>💬 Ask me about anything</h3>
