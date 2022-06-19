@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi there, I am Johnathan Costa</h1>
 <h3>🔭 I’m currently working on front end</h3>
-<h3>🌱 I’m currently learning Node.js and Python</h3>
+<h3 align="rigth">🌱 I’m currently learning Node.js and Python</h3>
 <h3>💬 Ask me about anything</h3>
 <h3>📫 How to reach me: jonathankristhian@gmail.com</h3>
 </div>
@@ -26,6 +26,6 @@
   <a href="https://instagram.com/johnkristhian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:johnathankristhian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/johnkristhian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <hr>
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
